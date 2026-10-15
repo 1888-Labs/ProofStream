@@ -4,7 +4,7 @@
 
 ProofStream fetches indexed swap activity from
 [The Graph](https://thegraph.com/), turns the response into readable rows, and
-uses [MerkleForge Framework](https://github.com/dicethedev/MerkleForge) to seal
+uses [MerkleForge Framework](https://github.com/1888-Labs/MerkleForge) to seal
 the dataset with a Merkle root. A user can then verify one selected activity in
 the browser using only that row and its compact proof.
 
@@ -67,7 +67,7 @@ not change the canonical row data or any cryptographic hash.
 ### Run The Web App
 
 ```bash
-git clone https://github.com/dicethedev/ProofStream.git
+git clone https://github.com/1888-Labs/ProofStream.git
 cd ProofStream
 npm install
 npm run dev

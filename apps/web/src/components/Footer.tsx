@@ -13,7 +13,7 @@ const footerGroups = [
   {
     title: "Technology",
     links: [
-      { label: "MerkleForge", href: "https://github.com/dicethedev/MerkleForge" },
+      { label: "MerkleForge", href: "https://github.com/1888-Labs/MerkleForge" },
       { label: "The Graph", href: "https://thegraph.com/" },
       { label: "Trust model", href: "#security" },
     ],
@@ -21,8 +21,8 @@ const footerGroups = [
   {
     title: "Resources",
     links: [
-      { label: "README", href: "https://github.com/dicethedev/proofstream#readme" },
-      { label: "Source code", href: "https://github.com/dicethedev/proofstream" },
+      { label: "README", href: "https://github.com/1888-Labs/ProofStream#readme" },
+      { label: "Source code", href: "https://github.com/1888-Labs/ProofStream" },
       { label: "FAQ", href: "#faq" },
     ],
   },
@@ -80,7 +80,7 @@ export function Footer() {
           <span>Open source</span>
           <span>API keys are never stored</span>
           <a
-            href="https://github.com/dicethedev/proofstream"
+            href="https://github.com/1888-Labs/ProofStream"
             target="_blank"
             rel="noreferrer"
           >
