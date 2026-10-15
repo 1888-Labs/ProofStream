@@ -67,7 +67,7 @@ not change the canonical row data or any cryptographic hash.
 ### Run The Web App
 
 ```bash
-git clone https://github.com/dicethedev/ProofStream.git
+git clone https://github.com/1888-Labs/ProofStream.git
 cd ProofStream
 npm install
 npm run dev
