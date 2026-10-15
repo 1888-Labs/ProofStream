@@ -19,7 +19,7 @@ export function Header() {
         <div className="nav-actions">
           <a
             className="github-link"
-            href="https://github.com/dicethedev/MerkleForge"
+            href="https://github.com/1888-Labs/MerkleForge"
             target="_blank"
             rel="noreferrer"
             aria-label="Open MerkleForge on GitHub"

@@ -13,7 +13,7 @@ const footerGroups = [
   {
     title: "Technology",
     links: [
-      { label: "MerkleForge", href: "https://github.com/dicethedev/MerkleForge" },
+      { label: "MerkleForge", href: "https://github.com/1888-Labs/MerkleForge" },
       { label: "The Graph", href: "https://thegraph.com/" },
       { label: "Trust model", href: "#security" },
     ],
